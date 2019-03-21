@@ -1,0 +1,6 @@
+* [MITMProxy如何配置二次代理](https://www.jianshu.com/p/dfd1e2753d71)
+* [MITMProxy如何配置二次代理](http://blog.51cto.com/leyex/2170340)
+* [Replay and change upstream proxy server](https://discourse.mitmproxy.org/t/replay-and-change-upstream-proxy-server/1300)
+* [Can't Set HTTP Proxy](https://github.com/mitmproxy/mitmproxy/issues/2177#issuecomment-287519134)
+* [mitmproxy – 简洁多样的反向代理服务器](https://www.andseclab.com/2018/03/18/mitmproxy-简洁多样的反向代理服务器/)
+* [使用 mitmproxy + python 做拦截代理 ( 后附猫眼跳转到美团验证码的拦截脚本 )](https://blog.csdn.net/freeking101/article/details/83901842)

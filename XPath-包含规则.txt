@@ -1,0 +1,11 @@
+匹配 文本 包含有"下一页"的元素:
+//*[text()[contains(.,"下一页")]]
+
+匹配 ID属性 包含有"download"的元素:
+//*[@id[contains(.,"download")]]
+
+匹配 ID、Class、Href属性 或 文本 包含有"download"的元素:
+//*[(@id|@class|@href|text())[contains(.,"download")]]
+
+匹配文本包含有"next"的元素(不区分大小写):
+//*[text()[contains(translate(.,"ABCDEFGHIJKLMNOPQRSTUVWXYZ","abcdefghijklmnopqrstuvwxyz"),"next")]]

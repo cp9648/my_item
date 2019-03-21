@@ -1,0 +1,9 @@
+# scrapy 官网
+https://scrapy-chs.readthedocs.io/zh_CN/0.24/
+
+# Using a custom proxy in a Scrapy spider
+https://support.scrapinghub.com/support/solutions/articles/22000219743-using-a-custom-proxy-in-a-scrapy-spider
+
+下载器中间件(Downloader Middleware)
+https://scrapy-chs.readthedocs.io/zh_CN/1.0/topics/downloader-middleware.html
+
